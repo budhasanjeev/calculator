@@ -1,0 +1,20 @@
+{
+  "name": "multiple-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.0",
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1"
+  }
+}
